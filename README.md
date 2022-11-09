@@ -17,9 +17,11 @@ O microprocessador Esp8266 possui algumas limitações de desempenho, para desen
 Obviamente como se trata de um sistema integrado a web, é necessário conexão com a internet.
 
 # Upgrades:
-O sistema atualmente realiza a inserção diretamente no banco de dados, obviamente isso a fins profissionais se torna algo inseguro. Deste modo é necessário a realização de um Back-End, para tratar essas requisições. Como melhoria de desempenho a implementação de um Sensor biométrico melhor e principalmente um ESP-32 melhoria o fluxo de funcionamento do sistema.
+O sistema atualmente realiza a inserção diretamente no banco de dados, consequentemente isso a fins profissionais se torna algo inseguro. Deste modo é necessário a realização de um Back-End, para tratar essas requisições. Como melhoria de desempenho a implementação de um Sensor biométrico melhor e principalmente um ESP-32 melhoria o fluxo de funcionamento do sistema.
 
 # Contato:
+Mais informações sobre o projeto no linkedin.
 Tem alguma duvida, alguma proposta de desenvolvimento similar ao apresentado ou proposta profissional?, entre em contato.
-E-mail: andersoncardoso302@hotmail.com;
+E-mail: andersoncardoso302@hotmail.com
 Discord: Mamonha#9320.
+Linkedin: https://www.linkedin.com/in/anderson-cardoso-da-silva-579216122/.
